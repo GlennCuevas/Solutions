@@ -1,0 +1,9 @@
+[submodule "CompanyManager"]
+	path = CompanyManager
+	url = G:/work/Code/GitHub/CompanyManager/.git
+[submodule "StoreManager"]
+	path = StoreManager
+	url = G:/work/Code/GitHub/StoreManager/.git
+[submodule "GitHub"]
+	path = GitHub
+	url = G:/work/Code/GitHub/.git
